@@ -41,7 +41,7 @@ namespace Ram_Cleaner
                             }
                             catch (Exception)
                             {
-                                
+                                 
                             }
                         }
                     }
