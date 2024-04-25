@@ -1,5 +1,4 @@
-﻿using System;
-using System.Diagnostics;
+﻿using System.Diagnostics;
 
 namespace Ram_Cleaner
 {
@@ -43,6 +42,7 @@ namespace Ram_Cleaner
                             {
                                  
                             }
+                            System.Threading.Thread.Sleep(5);
                         }
                     }
                 }
