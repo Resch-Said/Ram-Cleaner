@@ -12,8 +12,6 @@ namespace Ram_Cleaner
             {
                 Console.WriteLine("Enter the threshold in percentage for the cleaner to run: ");
                 cleanerThreshold = int.Parse(Console.ReadLine());
-
-                
             }
             catch (Exception e)
             {
